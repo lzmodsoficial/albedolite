@@ -54,11 +54,23 @@ sh start.sh
 
 -------------------------------------------
 
-COMANDOS PARA LIGAR, APÓS O TERMUX FECHADO. 
+-- COMANDOS PARA LIGAR, APÓS O TERMUX FECHADO --
 
-cd /sdcard/aleatory && sh start.sh 
+cd /sdcard/AlbedoLITE && sh start.sh 
 
 >    Somente esses 2.
+    
+-- COMANDOS PRA GERAR UM NOVO QR CODE --
+    
+de exit no termux.
+puxe a aba de notificaçoes do seu celular
+ vai ter la termux 1 session
+    clique em exit
+    
+abra o termux e cole esses comandos:
+    ( junto como esta ai )
+    
+cd /sdcard/AlbedoLITE && rm BarBar.json && sh start.sh
 
 -------------------------------------------
 ```
