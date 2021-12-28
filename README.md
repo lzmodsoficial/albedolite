@@ -1,13 +1,13 @@
-# </Aleatory Bot v4.2/>
+# </Albedo Bot LITE v2/>
 <div align="center">
 </div>
 <p align="center">
   <h4 align="center">
-<img src="https://telegra.ph/file/249a1ac9ecb5fbfb4c9cc.jpg" alt="Aleatory Bot v4.2 " width="300" />
+<img src="https://telegra.ph/file/249a1ac9ecb5fbfb4c9cc.jpg" alt="Albedo Bot LITE 2 " width="300" />
 
 </div>
 <p align="center">
-   <a href="https://github.com/lzmodsoficial/aleatorybot4.1"><img title=":]" src="https://img.shields.io/badge/:]-LZ DOMINA BB-red.svg?style=for-the-badge&logo=github" /></a>
+   <a href="https://github.com/lzmodsoficial/albedolite"><img title=":]" src="https://img.shields.io/badge/:]-LZ DOMINA BB-red.svg?style=for-the-badge&logo=github" /></a>
   <h4 align="center">
 
 Um bot simples para whatsapp que está em desenvolvimento.
@@ -24,7 +24,10 @@ caso duvidas entre em contato! ( Clique Em Cima )
     
 - [Grupo Com Bots ( Clique )](https://chat.whatsapp.com/DPZKtPOZvUBIsaluTNB5rh)
     
-
+----------- Download -----------
+    
+- [Baixar Albedo Bot LITE ( Clique )](https://apkadmin.com/cw3za8apaa0h/AlbedoLITE.zip.html)
+    
 ## COMANDOS PARA INSTALAÇÃO DO BOT
 ```bash
  
@@ -36,9 +39,12 @@ termux-setup-storage
 
 cd /sdcard
 
-git clone https://github.com/NuevaGeneracionALB/aleatory.git
+extraia o arquivo da albedo pro seu armazenamento interno,
+não sabe extrair? me chama no zap q eu explico.
+    
+extraiu? vamos prosseguir...
 
-cd aleatory
+cd AlbedoLITE
     
 pkg install ffmpeg -y && bash install.sh
 
