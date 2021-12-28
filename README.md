@@ -16,7 +16,7 @@ Um bot simples para whatsapp que está em desenvolvimento.
     
 caso duvidas entre em contato! ( Clique Em Cima )
     
-- [Josival (Dono Ofc Do Aleatory Bot)](https://wa.me/558198923680)
+- [Tio Momonga] (Dono Ofc Da Albedo)](https://www.youtube.com/channel/UCEXnX1CqgbV5xVabZG71aUw)
     
 - [LZ MODS](https://wa.me/556284944742)
     
