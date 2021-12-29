@@ -28,6 +28,10 @@ caso duvidas entre em contato! ( Clique Em Cima )
     
 - [Baixar Albedo Bot LITE ( Clique )](https://apkadmin.com/cw3za8apaa0h/AlbedoLITE.zip.html)
     
+- [Baixar Termux 117 ( Clique )](https://www.mediafire.com/file/plyu1fbkc9hpss4/Termux_117.apk/file)
+    
+- [Baixar Acode Pro ( Clique )](https://www.mediafire.com/file/39o3dijk4tqyk2f/Acode_base.apk/file)
+    
 ## COMANDOS PARA INSTALAÇÃO DO BOT
 ```bash
  
